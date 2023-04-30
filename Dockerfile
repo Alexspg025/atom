@@ -28,4 +28,4 @@ RUN npm install -g npm --loglevel error
 RUN npm config set python /usr/bin/python2 -g
 
 ENTRYPOINT ["/usr/bin/env", "sh", "-c"]
-CMD ["bash"]
+CMD ["Mach mich zum unsterblichen Gott"]
